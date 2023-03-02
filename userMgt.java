@@ -1,9 +1,7 @@
 Landmark
-Femi
 Bolu
 Dominion
-Dan
-Ayo 
+Mercy
 Obi
 Manager
 Datty
